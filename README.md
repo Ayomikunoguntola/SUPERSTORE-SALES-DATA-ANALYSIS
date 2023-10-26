@@ -41,16 +41,16 @@ The diagram above shows the revenue and profit based on different categories. Th
 
 ## Question 2 
  What is the total profit generated across different regions? 
-Like the first question, I selected the data range and then clicked on the insert tab on the ribbon. I then selected PivotTable this time; instead of clicking on a new worksheet, I selected an existing worksheet so that all my visuals were on one worksheet.To get the total profit generated across different regions, I dragged the region to the row section of the pivot table and the profit to the values section of the pivit table which produce the table below:
+Like the first question, I selected the data range and then clicked on the insert tab on the ribbon. I then selected PivotTable this time; instead of clicking on a new worksheet, I selected an existing worksheet so that all my visuals were on one worksheet. To get the total profit generated across different regions, I dragged the region to the row section of the pivot table and the profit to the values section of the pivot table, which produced the table below:
 ![](Question2_Analysis.jpg) 
-For the purpose of my diagram, I foemated the profit section in a decending order by clicking on the filter button ( beside the region), clicked on decending and then sort by sum of profit. To further analyse this table, I turned this table into a chart by clicking on the table and selecting PivotTableAnalyze on the ribbon, and then I clicked the pivot chart, which produced the column chart below. The column chart is idle for this analysis because it shows the decreasing order region by region 
+For my diagram, I formatted the profit section in descending order by clicking on the filter button ( beside the region), clicking on descending and then sorting by the sum of profit. To further analyze this table, I turned the table into a chart by clicking on the table and selecting PivotTableAnalyze on the ribbon, and then I clicked the pivot chart, which produced the column chart below. The column chart is idle for this analysis because it shows the decreasing order region by region 
 ![](Question2_Visuals.jpg) 
 
 
 
  ## Question 3 
  What is the number of sales made across different regions?
-
+ In this case, I dragged the sales value to the values section and kept the region in the column section. From that, I got this table. 
   ![](Question3_Analysis.jpg) 
 
 
