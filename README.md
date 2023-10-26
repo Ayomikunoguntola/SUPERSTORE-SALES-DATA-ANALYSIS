@@ -29,7 +29,7 @@ After getting the data,  I cleaned it to make it look more appealing to viewers.
 
 ## Question 1 
 What category produced the highest revenue and profit? 
-In the new worksheet, I dragged sales and profit to the value section and the category to the row section. The table below was produced. I adjusted the colour by clicking the design on the ribbon and adjusting the colour to my preferred colour. In addition, I used the filter button to have the sales data in descending order. To further visualize the data, I turned this table into a chart by clicking on the table and selecting PivotTableAnalyze on the ribbon, and then I clicked the pivot chart, which produced the column chart. seen below 
+In the new worksheet, I dragged sales and profit to the value section and the category to the row section. The table below was produced. I adjusted the colour by clicking the design on the ribbon and adjusting the colour to my preferred colour. In addition, I used the filter button to have the sales data in descending order. 
 
 ![](Question1_Analysis.jpg) 
 
@@ -44,5 +44,43 @@ The diagram above shows the revenue and profit based on different categories. Th
 
 
 
- !
+ ![](Question2_Analysis.jpg) 
+
+
+ ![](Question2_Visuals.jpg) 
+
+
+
+ ## Question 3 
+ What is the number of sales made across different regions?
+
+  ![](Question3_Analysis.jpg) 
+
+
+ ![](Question3_Visuals.jpg) 
+
+
+ ## Question 4 
+ What shipping method is frequently used to transport products 
+
+  ![](Question4_Analysis.jpg) 
+
+
+ ![](Question4_Visuals.jpg) 
+
+ ## Question 5 
+ Which product segment is the most discounted? 
+  ![](Question5_Analysis.jpg) 
+
+
+ ![](Question5_Visuals.jpg) 
+
+ ## Question 6 
+
+ What are the 3 top states by sales? 
+  ![](Question6_Analysis.jpg) 
+
+
+ ![](Question6_Visuals.jpg) 
+ 
 
