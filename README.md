@@ -33,3 +33,16 @@ In the new worksheet, I dragged sales and profit to the value section and the ca
 
 ![](Question1_Analysis.jpg) 
 
+To further visualize the data, I turned this table into a chart by clicking on the table and selecting PivotTableAnalyze on the ribbon, and then I clicked the pivot chart, which produced the column chart below. The column chart is suitable for this analysis because it puts all data side by side, which helps for easy assessment. 
+
+![](Question1_Visuals.jpg) 
+
+The diagram above shows the revenue and profit based on different categories. This shows that technology has the largest sales and profit while office supplies have the lowest and second highest profits. In the case of furniture, it shows that they are making quite a number of sales but not as much profit compared to the other two categories.
+
+## Question 2 
+ What is the total profit generated across different regions? 
+
+
+
+ !
+
