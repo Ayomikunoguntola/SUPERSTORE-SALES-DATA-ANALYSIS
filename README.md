@@ -8,11 +8,11 @@ The data was provided to me via Google Drive, and It contains one sheet with 999
 After getting the data,  I cleaned it to make it look more appealing to viewers. For this process, I edited the titles in the first row (i.e., row with row ID, order ID, ship date, etc.). I made data in that row bold and larger than the entire data set and also added colour to that row by highlighting the row and clicking on home-fill to add colour. In this step, I also adjusted all 21 columns so that the text in the columns was not congested. To do this, I put my cursor on the end of the line and dragged the column to my desired size. To further make the data appealing to viewers, I created borders around the data set. I did this by highlighting the entire data set (ctrl.+A) and clicking on the home page, the border icon and all borders. In this project, I will be working with dates a lot, so I decided to edit my date format to the appropriate format. I highlighted columns C and D  and changed the format from general to date.
 
 ### Data Before 
-
+![](Initial_Data.jpg) 
 
 
 ### Data After
-
+![](Edited_Data.jpg) 
 
 ## Problem Statement 
 1. What category produced the highest revenue/profit 
@@ -30,4 +30,6 @@ After getting the data,  I cleaned it to make it look more appealing to viewers.
 ## Question 1 
 What category produced the highest revenue and profit? 
 In the new worksheet, I dragged sales and profit to the value section and the category to the row section. The table below was produced. I adjusted the colour by clicking the design on the ribbon and adjusting the colour to my preferred colour. In addition, I used the filter button to have the sales data in descending order. To further visualize the data, I turned this table into a chart by clicking on the table and selecting PivotTableAnalyze on the ribbon, and then I clicked the pivot chart, which produced the column chart. seen below 
+
+![](Question1_Analysis.jpg) 
 
