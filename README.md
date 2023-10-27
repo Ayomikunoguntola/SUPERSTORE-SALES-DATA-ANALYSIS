@@ -5,9 +5,6 @@ Data is very crucial for the success of any business, and superstore is no excep
 The data was provided to me via Google Drive, and It contains one sheet with 9995 rows(one of which is the column names) and 21 columns. The column headings are as follows: Row ID, Order ID, Order Date, Ship Date, Ship Mode, Customer ID, Customer Name, Segment, Country, City, State, Postal Code, Region, Product ID, Category, Sub-Category, Product Name, Sales, Quantity, Discount and Profit.
 
 
-## KPIS 
-
-
 ## Problem Statement 
  The following questions will help me gather relevant information in other come up with recommendations for the Superstore 
 1. What category produced the highest revenue/profit 
@@ -65,7 +62,7 @@ After my analysis, I realized that California has the most profit at $76,381.38 
   
  ## Question 5
  What shipping method is frequently used to transport products 
-Knowing the most used shipping method can help the organization know what to focus on in the long run. From my analysis, the standard class is the most common shipping method, while same-day delivery is the most used mode of transportation, and I wonder why. Could it be that customers found the same-day delivery more expensive and the standard class more affordable? Or can most products cannot be shipped using the same delivery and can just be shipped using the standard class? 
+Knowing the most used shipping method can help the organization know what to focus on in the long run. From my analysis, the standard class is the most common shipping method, while same-day delivery is the most used mode of transportation, and I wonder why. Could it be that customers found the same-day delivery more expensive and the standard class more affordable? Or can most products not be shipped using the same delivery and can just be shipped using the standard class? 
 
   ![](Question4_Analysis.jpg) 
 
@@ -75,13 +72,15 @@ Knowing the most used shipping method can help the organization know what to foc
  
  ## Question 6
  Which product segment is the most discounted? 
- When analyzing this question, I realized the organization does not provide its customers with many discounts because customer segments have the highest discount at around $820.91, and the home office has the lowest at $262.33. Discounts are very important for customer retention because they give organizations a competitive edge, increase sales and build awareness about an organization 
+ When analyzing this question, I realized the organization does not offer customers many discounts because customer segments have the highest discount at around $820.91, and the home office has the lowest at $262.33. Discounts are very important for customer retention because they give organizations a competitive edge, increase sales and build awareness about an organization 
 
 
   ![](Question5_Analysis.jpg) 
 
 
  ![](Question5_Visuals.jpg) 
+
+
 
 
  
