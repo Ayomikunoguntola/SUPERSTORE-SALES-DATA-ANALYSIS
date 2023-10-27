@@ -46,7 +46,7 @@ and question 3 helps to analyze this point further
   ![](Question6_Analysis.jpg) 
 
 
- ![](Question6_Visuals.jpg) 
+ ![](Question6_Visuals.png) 
 
 
 
